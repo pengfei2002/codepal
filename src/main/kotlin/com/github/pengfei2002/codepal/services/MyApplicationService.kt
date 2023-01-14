@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pengfei2002.codepal.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pengfei2002.codepal.MyBundle
 
 class MyApplicationService {
 

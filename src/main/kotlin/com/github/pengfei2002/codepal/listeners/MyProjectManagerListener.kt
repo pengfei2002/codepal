@@ -1,9 +1,9 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.pengfei2002.codepal.listeners
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import org.jetbrains.plugins.template.services.MyProjectService
+import com.github.pengfei2002.codepal.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 
